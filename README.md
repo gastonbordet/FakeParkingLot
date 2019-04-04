@@ -11,23 +11,23 @@ Para ejecutar el programa usar el .exe ubicado en la carpeta Debug, o abrir el p
 -----------COMANDOS PARA LA CONSOLA-------------
 
 
-Abrir estacionamiento:                 abrir
+  Abrir estacionamiento:                 abrir
 
-Cerrar estacionamiento y facturar:     cerrar
+  Cerrar estacionamiento y facturar:     cerrar
 
-Consultar espacios disponibles:        espacios
+  Consultar espacios disponibles:        espacios
 
-Consultar autos estacionados:          autos
+  Consultar autos estacionados:          autos
 
-Consultar precio por dia:              precio
+  Consultar precio por dia:              precio
 
-Ingresar auto:                         ingresar
+  Ingresar auto:                         ingresar
 
-Quitar auto:                           egresar
+  Quitar auto:                           egresar
 
-Ver comandos nuevamente:               comandos
+  Ver comandos nuevamente:               comandos
 
-Limpiar consola:                       limpiar
+  Limpiar consola:                       limpiar
 
-Salir del programa:                    salir
+  Salir del programa:                    salir
 
