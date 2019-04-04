@@ -6,6 +6,8 @@ Para ejecutar el programa usar el .exe ubicado en la carpeta Debug, o abrir el p
 
 
 
+
+
 -----------COMANDOS PARA LA CONSOLA-------------
 
 
